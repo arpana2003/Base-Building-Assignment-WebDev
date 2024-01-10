@@ -1,0 +1,53 @@
+Internet:
+
+The Internet is the global system of interconnected computer networks that uses the Internet protocol suite to communicate between networks and devices.
+
+ It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope.
+
+----------------------------------------
+Web Browser:
+
+A web browser is an application for accessing websites and the Internet.
+
+ When a user requests a web page from a particular website, the browser retrieves its files from a web server and then displays the page on the user's screen.
+
+Browsers are used on a range of devices, including desktops, laptops, tablets, and smartphones.
+
+
+-------------------------------------------
+Browser Engine:
+
+A browser engine is a core software component of every major web browser.
+ The primary job of a browser engine is to transform HTML documents 
+and other resources of a web page into an interactive visual 
+representation on a user's device.
+
+It is a core component of every web browser. 
+
+-------------------------------------------
+
+Static Site:
+
+A static website is made up of a fixed number 
+of pre-built files stored on a web server. 
+These files are written in HTML, CSS, and
+ JavaScript, which are called “client-side”
+ languages because they execute in the user’s
+ web browser. When a user requests a page from
+ the server with a URL, the server returns the
+ HTML file that is specified by the URL and 
+any accompanying CSS or JavaScript files.
+
+ The web server does not alter the files before
+ they’re shipped to the user.
+
+-------------------------------------------
+
+Dynamic Sites:
+
+ A dynamic website presents different information to
+ different visitors. The content that a visitor sees 
+can be determined by several factors, such as their 
+location, local time, settings and preferences, and/or 
+actions they’re taken on the website (e.g., shopping habits)
+, making for a more tailored and interactive experience.
